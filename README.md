@@ -22,3 +22,7 @@ Additionally a shooting mechanism is implemented for the ship with the user bein
 fire one shot at a time using the alphabetical keys. 
 The planes continuously travel across the screen automatically. 
 
+
+Screenshot of project
+
+![WhatsApp Image 2022-07-20 at 1 29 43 PM](https://user-images.githubusercontent.com/83898021/179929298-c7eb3cb0-4c19-421b-bc78-e468e5cf39d6.jpeg)
