@@ -9,3 +9,15 @@ The project consists of 2 scenes.
 USN and so on. 
  The second scene will be of the ship and its background sailing on the ocean with 
 three planes flying across the screen.
+
+
+User interaction is provided by enabling the user to move the ship in forward and backward 
+direction using the alphabetical keys. User can stop the ship and even choose the day and 
+night cycle. 
+During the day cycle the sun will be visible starting from the left position. As we slowly 
+change to the night cycle the sun will move to the right until it disappears and the moon will 
+appear in its place. All the 2D models in the program such as the ship and the mountains also 
+changes color based on the day/night cycle 
+Additionally a shooting mechanism is implemented for the ship with the user being able to 
+fire one shot at a time using the alphabetical keys. 
+The planes continuously travel across the screen automatically. 
